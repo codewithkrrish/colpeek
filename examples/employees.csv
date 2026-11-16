@@ -1,0 +1,11 @@
+name,age,city,joined,salary,active
+Asha,28,Mumbai,2023-01-15,85000.5,true
+Rohan,34,Delhi,2022-06-01,92000,TRUE
+Meera,28,Mumbai,2023-03-20,,false
+Arjun,41,Bengaluru,2021-11-05,110000,yes
+Priya,,Pune,2024-02-10,78000,TRUE
+Kabir,29,Delhi,2023-08-14,85000.5,no
+Ananya,33,Mumbai,2022-12-01,95000,true
+Vikram,28,Pune,2023-05-30,81000,TRUE
+Sana,36,Delhi,2021-09-18,102000,false
+Dev,31,Bengaluru,2024-01-22,,yes
